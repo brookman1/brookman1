@@ -12,6 +12,9 @@
   - 💰📉📈 Price analisys of financial instruments
   - 🥄data scraping
   - ✔️❌Development testing to enable CI/CD
+- ❤️You'd like
+  - 👨‍🏭Frelancer.com, https://bit.ly/3yjFIah  World's largest freelancing and crowdsourcing marketplace. Connects over 52,400,900 employers and freelancers globally from over 247 countries, regions, and territories.
+  - 💵Coinbase, https://bit.ly/3ouX27z
 - 📫 How to reach me
   - 💼 LinkedIn: https://bit.ly/3ov3Wd1
   - 📂 Freelancer: https://bit.ly/3bEoyKz
