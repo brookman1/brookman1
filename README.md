@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @brookman1
-  - 🧑‍💻
+  - 🧑‍💻 technologist
 - 👀 I’m interested in
   - 🏆🥇🥈🥉 Achieving more github stars and higher ⬆️ Stack Oveflow rating
 - 🌱 I’m currently learning
   - 📊 Statistical Analisys
   - 🤖 Machine Learning / Deep Learning / Graph algorithms
-- ✨㊙️There secret projects✨
+- ✨㊙️There are secret projects✨
   - 📄
   - ♾️⌛🧑‍🏭⬅️🐷💄
 - 💞️ I’m looking to collaborate on 
