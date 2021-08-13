@@ -9,6 +9,7 @@
   - 📄
   - ♾️⌛🧑‍🏭⬅️🐷💄
 - 💞️ I’m looking to collaborate on 
+  - 🔧Projects in a startup with 5-50ppl outside financial industry.
   - 💰📉📈 Price analisys of financial instruments
   - 🥄data scraping
   - ✔️❌Development testing to enable CI/CD
@@ -18,6 +19,7 @@
 - 📫 How to reach me
   - 💼 LinkedIn: https://bit.ly/3ov3Wd1
   - 📂 Freelancer: https://bit.ly/3bEoyKz
+- 📄 Other into: https://www.hackerrank.com/ystreltsov_99
 
 <!---
 brookman1/brookman1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
