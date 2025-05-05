@@ -1,0 +1,9 @@
+# Site settings
+title: Great New Blog Title
+author:
+  name: Yevgeny Streltsov
+  email: ystreltsov_99@yahoo.com.com
+description: "Resumes and references are the past, portfolio and assessments are the future."
+
+# Build settings
+remote_theme: mmistakes/minimal-mistakes
