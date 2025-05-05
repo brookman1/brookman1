@@ -16,7 +16,7 @@
 - There are no small projects
 - 🔧Projects in a startup with 5-50ppl outside financial industry.  Retail and manufacturing are the best.
 - ✔️❌Development testing to enable CI/CD
-- IoT with Touchscreens
+- <img src="assets/noun-iot-7399020.png" width="4%">IoT with Touchscreens </img>
 
 ### Personal, Small Passion Projects
 
