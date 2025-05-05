@@ -5,7 +5,7 @@
            margin-left: auto;
            margin-right: auto;
            width: 30%;"
-    src="./assets/brookman1_logo.png"
+    src="./assets/Brookman1_logo.png"
     alt="Brookman1 Logo">
 </img>
 
