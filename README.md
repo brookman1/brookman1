@@ -11,6 +11,11 @@
 
 ## 🧑‍💻 Technologist 💻
 
+Resumes are the past, assessments and skill tests are the future.
+### Best way to reach me
+
+📫[email](mailto:ystreltsov_99@yahoo.com), [LinkedIn](https://www.linkedin.com/in/ystreltsov/).
+
 ### Looking to collaborate
 
 - There are no small projects
@@ -46,8 +51,8 @@
 ## Badges and Certificates
 
 - [https://www.hackerrank.com/ystreltsov_99](https://bit.ly/3bEoyKz)
-- [Courcera](courcera.com)
-- [Freelancer.com](freelancer.com)
+- [Courcera Assessments](courcera.com)
+- [Freelancer.com Assessments](freelancer.com)
 
 <!---
 brookman1/brookman1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
