@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Resumes and references are things of the past, assessments and certifications
   are the future.
 domain: brookman1.github.io
-baseurl: "https://brookman1.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  brookman1
