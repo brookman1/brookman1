@@ -40,7 +40,7 @@ Resumes and references are things of the past, assessments and certifications.
   - World's largest freelancing and crowd sourcing marketplace. Connects over 52,400,900 employers and freelancers globally from over 247 countries, regions, and territories.
 - 💵 Coinbase, [https://bit.ly/3ouX27z](https://bit.ly/3ouX27z)
 
-- ![Brookman1 GitHub Link](/assets/github-mark-white.png){:width="2%"} [https://github.com/brookman1](https://github.com/brookman1)
+- ![Brookman1 GitHub Link](/brookman1/assets/github-mark-white.png){:width="2%"} [https://github.com/brookman1](https://github.com/brookman1)
 
 ## 📫 How to Reach Me
 
