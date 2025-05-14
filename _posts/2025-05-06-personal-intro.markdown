@@ -5,7 +5,7 @@ background-color: #080808
 ---
 
 {:style="margin-left:auto;margin-right:auto;width:30%"}
-![Brookman1 Personal Logo](../assets/Brookman1_logo.png)
+![Brookman1 Personal Logo](/brookman1/assets/Brookman1_logo.png)
 
 ## 🧑‍💻 Technologist 💻
 
@@ -20,7 +20,7 @@ Resumes and references are things of the past, assessments and certifications.
 - There are no small projects
 - 🔧Projects in a startup with 5-50ppl outside financial industry.  Retail and manufacturing are the best.
 - ✔️❌Development testing to enable CI/CD
-- ![IoT](../assets/noun-iot-7399020.png){:width="2%"}
+- ![IoT](/brookman1/assets/noun-iot-7399020.png){:width="2%"}
 
 ### Personal, Small Passion Projects
 
