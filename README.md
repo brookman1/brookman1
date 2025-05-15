@@ -4,7 +4,6 @@ author: Brookman1
 background-color: #080808
 ---
 
-{:style="margin-left:auto;margin-right:auto;width:30%"}
 ![Brookman1 Personal Logo](/assets/Brookman1_logo.png)
 
 ## 🧑‍💻 Technologist 💻
