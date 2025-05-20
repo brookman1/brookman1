@@ -14,6 +14,8 @@ Resumes and references are things of the past, assessments and certifications.
 ### Way to reach me
 
 📫[email](mailto:ystreltsov_99@yahoo.com), [LinkedIn](https://www.linkedin.com/in/ystreltsov/).
+### Check Me Out on Medium.com
+[https://medium.com/@ystreltsov_99](https://medium.com/@ystreltsov_99)
 
 ### Looking to collaborate
 
