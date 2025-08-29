@@ -128,3 +128,13 @@ The prompt will take some doing to get, if I still have it.
 ![Fabric](/brookman1/assets/icon_with_a_message_work_don_t_help_fabric.jpeg)
 
 ![Hardhat](/brookman1/assets/icon_with_a_message_work_don_t_help_helmet.jpeg)
+
+## Why I May Be Using Claude for the Rest of My Life.
+Got these done.  The overall impression that comes to mind is that Copilot was trying to impress me when it first did my bidding.  
+
+The very first thing in the training attempt for myself was "A Big Furry Dog Licking Glass" that was supposed to be a privacy screen for a window.
+
+Quickly learned, from two attempts, that political statements are blocked as if this was recipe for cyanide.  Thanks Elon Musk YouTubes for featuring his says about it. 
+
+## The Price of a Free Tier
+Free is free, possibly the best way to learn.  I sure wish to get into n8n or a similar tool, and do some of my other secret projects, looks like there is a two-week deadline once it is initiated.  Not sure how to keep on working with the interruptions coming.
