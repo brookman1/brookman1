@@ -32,6 +32,7 @@ Resumes and references are things of the past, assessments and certifications.
 - ✨㊙️There are secret projects✨
   - 📄
   - ♾️⌛🧑‍🏭⬅️🐷💄
+  - ![Brookman1 Personal Logo](/assets/Black_and_Silver_Logo_with_Border.png)
 
 ## 👍 You Wish to Try
 
