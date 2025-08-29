@@ -1,8 +1,9 @@
+---
 layout: post
-title: "POST-TITLE"
-date: YYYY-MM-DD hh:mm:ss -0000
-categories: CATEGORY-1 CATEGORY-2
-
+title: "LLM-Image-Generation"
+date: 2025-08-12 04:09:00 -0000
+categories: LLM Image Generation
+---
 # Using AI to Make Some Images
 It occurred to me that becoming a Web3 enabled digital panhandler is not very difficult.  Mainly I would generate a QR Code to my crypto address for Solana or some other token and incorporate some image.
 
