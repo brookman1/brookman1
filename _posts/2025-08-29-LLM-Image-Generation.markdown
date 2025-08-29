@@ -22,10 +22,16 @@ Here are the results:
 
 ![New Work Don't Help 2](/brookman1/assets/New_Work_Don_t_Help_2.png)
 
-Not sure how to get back to the original idea:
-![Yellow and Black Logo Thin.png](/brookman1/assets/Yellow_and_Black%20Logo_Thin.png)
+Here are the results:
+[New_Work_Don_t_Help.png](/assets/New_Work_Don_t_Help.png "New_Work_Don_t_Help.png")
+and 
+[New_Work_Don_t_Help_2.png](/assets/New_Work_Don_t_Help_2.png "New_Work_Don_t_Help_2.png")
 
-Possibly Copilot changed.
+Not sure how to get back to the original idea,
+> The prompt used suggestions to: to make it like it would appear on a lunch box or a hardhat. 
+[Yellow_and_Black%20Logo_Thin.png](/assets/Yellow_and_Black%20Logo_Thin.png "Yellow_and_Black%20Logo_Thin.png")
+
+Possibly Copilot has changed and the above results are unreachable.  Save your prompts guys! :point_left:
 
 ## Big Furry Dog Licking Glass from Claude
 The prompt:
@@ -118,6 +124,7 @@ The prompt:
 
 ## Some Images with Similar Prompt from Meta
 The prompt will take some doing to get, if I still have it.
+> Make it a sticker on a hardhat or a lunchbox was part of the prompt, make it fabric was picked from suggestions.
 ![Fabric](/brookman1/assets/icon_with_a_message_work_don_t_help_fabric.jpeg)
 
 ![Hardhat](/brookman1/assets/icon_with_a_message_work_don_t_help_helmet.jpeg)
