@@ -8,7 +8,7 @@ categories: LLM Image Generation
 It occurred to me that becoming a Web3 enabled digital panhandler is not very difficult.  Mainly I would generate a QR Code to my crypto address for Solana or some other token and incorporate some image.
 
 ## Using an LLM Image Generator Came to Mind
-For a while I've been using Meta to make "Magic Crypto Baby Warrior."  Then switched to a passion of not being disturbed at work, or doing a passion project, or some other task.  Some of the original prompts I used hit a usage limit, and after I pause my efforts - it did not occur to me to save the prompts.  
+For a while I've been using Meta to make "Magic Crypto Baby Warrior."  Then switched to a passion of not being disturbed at work, or doing a passion project, or some other task.  Some of the original prompts used to create best works hit a usage limit, and after a pause of efforts for some days - it did not occur to me to save the prompts.  The free tier was the choice for me to produce the best results.
 
 Microsoft Copilot was the main tool, here are the most recent prompts:
 
