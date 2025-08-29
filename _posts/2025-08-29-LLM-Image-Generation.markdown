@@ -23,9 +23,9 @@ Here are the results:
 ![New Work Don't Help 2](/brookman1/assets/New_Work_Don_t_Help_2.png)
 
 Here are the results:
-[New_Work_Don_t_Help.png](/assets/New_Work_Don_t_Help.png "New_Work_Don_t_Help.png")
+[New_Work_Don_t_Help.png](/brookman1/assets/New_Work_Don_t_Help.png "New_Work_Don_t_Help.png")
 and 
-[New_Work_Don_t_Help_2.png](/assets/New_Work_Don_t_Help_2.png "New_Work_Don_t_Help_2.png")
+[New_Work_Don_t_Help_2.png](/brookman1/assets/New_Work_Don_t_Help_2.png "New_Work_Don_t_Help_2.png")
 
 Not sure how to get back to the original idea,
 > The prompt used suggestions to: to make it like it would appear on a lunch box or a hardhat. 
