@@ -19,6 +19,7 @@ and
 
 Here are the results:
 !["New Work Don't Help](/brookman1/assets/New_Work_Don_t_Help.png)
+
 ![New Work Don't Help 2](/brookman1/assets/New_Work_Don_t_Help_2.png)
 
 Not sure how to get back to the original idea:
@@ -27,7 +28,7 @@ Not sure how to get back to the original idea:
 Possibly Copilot changed.
 
 ## Big Furry Dog Licking Glass from Claude
-The prompt I used:
+The prompt:
 > Make a picture of a big furry dog licking glass.
 
 {::nomarkdown}
@@ -114,3 +115,9 @@ The prompt I used:
   <path d="M 105 125 Q 120 120 135 125" stroke="#000" stroke-width="2" fill="none"/>
 </svg>
 {:/}
+
+## Some Images with Similar Prompt from Meta
+The prompt will take some doing to get, if I still have it.
+![Fabric](/brookman1/assets/icon_with_a_message_work_don_t_help_fabric.jpeg)
+
+![Hardhat](/brookman1/assets/icon_with_a_message_work_don_t_help_helmet.jpeg)
