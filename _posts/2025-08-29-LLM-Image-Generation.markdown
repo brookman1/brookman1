@@ -28,7 +28,8 @@ and
 [New_Work_Don_t_Help_2.png](/brookman1/assets/New_Work_Don_t_Help_2.png "New_Work_Don_t_Help_2.png")
 
 Not sure how to get back to the original idea,
-> The prompt used suggestions to: to make it like it would appear on a lunch box or a hardhat. 
+> The prompt used suggestions to: to make it like it would appear on a lunch box or a hardhat.
+
 [Yellow_and_Black%20Logo_Thin.png](/brookman1/assets/Yellow_and_Black%20Logo_Thin.png "Yellow_and_Black%20Logo_Thin.png")
 
 Possibly Copilot has changed and the above results are unreachable.  Save your prompts guys! 👈
