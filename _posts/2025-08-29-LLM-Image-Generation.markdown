@@ -17,12 +17,11 @@ and
 > Design a triangular road sign with a message in industrial fonts: “Work, don’t help! Don’t help: work!” Incorporate a men at work logo. Use road sign yellow with black and reflective red and whites for the border parts. Make the sign look worn.
 
 Here are the results:
-[New_Work_Don_t_Help.png](/assets/New_Work_Don_t_Help.png "New_Work_Don_t_Help.png")
-and 
-[New_Work_Don_t_Help_2.png](/assets/New_Work_Don_t_Help_2.png "New_Work_Don_t_Help_2.png")
+!["New_Work_Don_t_Help](/brookman1//assets/New_Work_Don_t_Help.png)
+![New_Work_Don_t_Help_2](/brookman1/assets/New_Work_Don_t_Help_2.png)
 
 Not sure how to get back to the original idea:
-[Yellow_and_Black%20Logo_Thin.png](/assets/Yellow_and_Black%20Logo_Thin.png "Yellow_and_Black%20Logo_Thin.png")
+![Yellow_and_Black%20Logo_Thin.png](/brookman1/assets/Yellow_and_Black%20Logo_Thin.png)
 
 Possibly Copilot changed.
 
