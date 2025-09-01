@@ -34,9 +34,11 @@ Not sure how to get back to the original idea,
 
 Possibly Copilot has changed and the above results are unreachable.  Save your prompts guys! 👈
 
-## Big Furry Dog Licking Glass from Claude
+## Big Furry Dog Licking Glass by Claude
 The prompt:
 > Make a picture of a big furry dog licking glass.
+While the picture below is not the most artistic, realistic, or entertaining: it shows that Claude has potentially a useful tool for image generation.  The fact that it does SVG format makes me expect something more interactive or responsive with the right prompt. 
+
 
 {::nomarkdown}
 <svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
