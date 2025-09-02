@@ -45,11 +45,13 @@ categories: Curriculum Vitae
 
 ### **🌟 Portfolio Pieces**
 
-#### **Medium Blog** ![](/brookman1/asset/for_curriculum_vitae/medium_logo_64x64.png)
+#### **Medium Blog** 
+![](/brookman1/asset/for_curriculum_vitae/medium_logo_64x64.png)
 
 - **Link**: <https://medium.comclickable/@ystreltsov_99>
 
-**Python Source Code Exhibit** ![](/brookman1/asset/for_curriculum_vitae/portfolio_64x64)
+**Python Source Code Exhibit** 
+![](/brookman1/asset/for_curriculum_vitae/portfolio_64x64)
 
 - **Link**: [https://www.mediafire.com/file/hbdf9z3v802j90h/Yevgeny_Streltsov_-\_Python_Source_Exhibit.zip/file](https://www.mediafire.com/file/hbdf9z3v802j90h/Yevgeny_Streltsov_-_Python_Source_Exhibit.zip/file)
 
