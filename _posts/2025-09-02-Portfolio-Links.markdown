@@ -25,7 +25,7 @@ https://colab.research.google.com/gist/brookman1/8c595b268c4d904bea6ab7a41e81cf9
 
 
 ## External Link
-Portfolio Link: https://www.mediafire.com/file/hbdf9z3v802j90h/Yevgeny_Streltsov_-_Python_Source_Exhibit.zip/file
+[Portfolio Link: https://www.mediafire.com/file/hbdf9z3v802j90h/Yevgeny_Streltsov_-_Python_Source_Exhibit.zip/file](https://www.mediafire.com/file/hbdf9z3v802j90h/Yevgeny_Streltsov_-_Python_Source_Exhibit.zip/file)
 This above link contains a zip archive file with unittest coverage.
 
 ## Git Repo for a Follow Along
@@ -33,4 +33,4 @@ I did a testing goat with a follow along, here is the path to the repo:
 https://github.com/brookman1/testing_goat_superlists.git
 
 ### The Source for the Follow Along Exercise
-This is the source for the book: https://www.obeythetestinggoat.com/
+[This is the source for the book: https://www.obeythetestinggoat.com/](https://www.obeythetestinggoat.com/)
