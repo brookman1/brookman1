@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "LLM-Image-Generation"
-date: 2025-08-29 04:09:00 -0000
-categories: LLM Image Generation
+title: "Curriculum Vitae"
+date: 2025-09-02 04:09:00 -0000
+categories: Curriculum Vitae
 ---
-
-###
 
 <table><thead><tr><th><h3><a id="_7fozss549u8j"></a><strong>Yevgeny Streltsov</strong></h3></th><th><h3><a id="_x86trf5mxew2"></a><strong>
 <img src="/brookman1/assets/for_curriculum_vitae/Stealth_Dev_64x64.png"></strong></h3></th><th><h4><a id="_4idjqhfifdtq"></a><strong>
