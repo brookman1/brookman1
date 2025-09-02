@@ -30,8 +30,8 @@ Portfolio Link: [https://www.mediafire.com/file/hbdf9z3v802j90h/Yevgeny_Streltso
 This link contains a zip archive file with unittest coverage.
 
 ## Git Repo for a Follow Along
-I did a testing goat with a follow along, here is the path to the repo:
-https://github.com/brookman1/testing_goat_superlists.git
+I did a version of a testing goat follow along, here is the path to the repo:
+[https://github.com/brookman1/testing_goat_superlists.git](https://github.com/brookman1/testing_goat_superlists.git).  It is my good README.md exhibit.
 
 ### The Source for the Follow Along Exercise
 [This is the source for the book: https://www.obeythetestinggoat.com/](https://www.obeythetestinggoat.com/)
