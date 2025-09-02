@@ -34,4 +34,4 @@ I did a version of a testing goat follow along, here is the path to the repo:
 [https://github.com/brookman1/testing_goat_superlists.git](https://github.com/brookman1/testing_goat_superlists.git).  It is my good README.md exhibit.
 
 ### The Source for the Follow Along Exercise
-[This is the source for the book: https://www.obeythetestinggoat.com/](https://www.obeythetestinggoat.com/)
+This is the source for the book: [https://www.obeythetestinggoat.com/](https://www.obeythetestinggoat.com/)
