@@ -45,7 +45,7 @@ categories: Curriculum Vitae
 
 ### **🌟 Portfolio Pieces**
 
-#### **Medium Blog** 
+**Medium Blog** 
 ![/brookman1/asset/for_curriculum_vitae/medium_logo_64x64.png](/brookman1/asset/for_curriculum_vitae/medium_logo_64x64.png)
 
 - **Link**: <https://medium.comclickable/@ystreltsov_99>
