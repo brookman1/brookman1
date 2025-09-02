@@ -64,7 +64,7 @@ categories: Curriculum Vitae
 
 ### **🧰 Comprehensive Skill Set**
 
-- **Languages**: Python, JavaScript, Go, React, Expo, Django, Flask, Gatsby, [Next.js](https://next.js), [Vue.js](https://vue.js), [Node.js](https://node.js)
+- **Languages & Frameworks**: Python, JavaScript, Go, React, Expo, Django, Flask, Gatsby, [Next.js](https://next.js), [Vue.js](https://vue.js), [Node.js](https://node.js)
 - **DevOps Tools**: Terraform, Helm, GCP, AWS, Git, Visual Studio Code, Docker, Jenkins, CI/CD, TDD
 - **Data & Analytics**: Spark, Airflow, MySQL, MongoDB, Neo4j, Redis, BigQuery, Pandas, NumPy, Protobuf
 - **Cloud & Serverless**: Aurora, CloudFunction, Lambda, Serverless, Pub/Sub Message Queues
