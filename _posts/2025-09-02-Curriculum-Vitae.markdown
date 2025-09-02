@@ -59,12 +59,12 @@ categories: Curriculum Vitae
 
 - **Coding Platforms**: Hacker Rank, Coding Game, Replit, Coursera
 - **Presentation Tools**: GitHub (<https://brookman1.github.io/brookman1/>)
-- **Frameworks & Libraries**: Expo, React, React Native, [Gatsby.js](https://gatsby.js), [Next.js](https://next.js), Jekyll
+- **Frameworks & Libraries**: Expo, React, React Native, [Gatsby.js](https://www.gatsbyjs.com/), [Next.js](https://nextjs.org), Jekyll
 - **DevOps & Cloud**: GitLab, Microsoft Copilot, DeepSeek, Claud
 
 ### **🧰 Comprehensive Skill Set**
 
-- **Languages & Frameworks**: Python, JavaScript, Go, React, Expo, Django, Flask, Gatsby, [Next.js](https://next.js), [Vue.js](https://vue.js), [Node.js](https://node.js)
+- **Languages & Frameworks**: Python, JavaScript, Go, React, Expo, Django, Flask, Gatsby, [Next.js](https://nextjs.org/), [Vue.js](https://vuejs.org/), [Node.js]((https://nodejs.org/)
 - **DevOps Tools**: Terraform, Helm, GCP, AWS, Git, Visual Studio Code, Docker, Jenkins, CI/CD, TDD
 - **Data & Analytics**: Spark, Airflow, MySQL, MongoDB, Neo4j, Redis, BigQuery, Pandas, NumPy, Protobuf
 - **Cloud & Serverless**: Aurora, CloudFunction, Lambda, Serverless, Pub/Sub Message Queues
