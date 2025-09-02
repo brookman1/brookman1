@@ -74,12 +74,8 @@ categories: Curriculum Vitae
 - **Brick and Mortar Retail**: Bringing online assets into the showroom
 - **Web3:** Making a clear and simple UI/UX that is responsive and robust.
 
-### **Header & Summary**
-
-#### **Header**
-
-Yevgeny Streltsov Vibe Coder • Data Analytics Engineer • Web3-native Builder
-
 #### **Summary**
 
-Dynamic and innovative Vibe Coder with a passion for blending technical expertise and creative storytelling. Proficient in data analytics and full-stack engineering, with a proven track record of delivering impactful solutions. Adept at leveraging cutting-edge technologies to craft unique digital experiences and drive meaningful results. Seeking opportunities to bring a fresh perspective and technical acumen to forward-thinking teams. Willing to pivot to Web3 development.
+**Yevgeny Streltsov**: Vibe Coder • Data Analytics Engineer • Web3-native Builder
+
+He is a dynamic and innovative Vibe Coder with a passion for blending technical expertise and creative storytelling. Proficient in data analytics and full-stack engineering, with a proven track record of delivering impactful solutions. Adept at leveraging cutting-edge technologies to craft unique digital experiences and drive meaningful results. Seeking opportunities to bring a fresh perspective and technical acumen to forward-thinking teams. Willing to pivot to Web3 development.
