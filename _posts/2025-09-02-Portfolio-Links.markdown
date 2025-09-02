@@ -25,7 +25,7 @@ A Colab notebook showing one of my ideas:
 
 
 ## External Link
-Portfolio Link: [https://www.mediafire.com/file/hbdf9z3v802j90h/Yevgeny_Streltsov_-_Python_Source_Exhibit.zip/file](https://www.mediafire.com/file/hbdf9z3v802j90h/Yevgeny_Streltsov_-_Python_Source_Exhibit.zip/file)
+Portfolio Link: [https://www.mediafire.com/file/hbdf9z3v802j90h/Yevgeny_Streltsov_-_Python_Source_Exhibit.zip/file](https://www.mediafire.com/file/hbdf9z3v802j90h/Yevgeny_Streltsov\_-\_Python_Source_Exhibit.zip/file)
 
 This link contains a zip archive file with unittest coverage.
 
